@@ -8,7 +8,7 @@ class Navmenu extends React.Component{
         return (
             <div>
                     <Navbar sticky="top" bg="light" expand="lg">
-                    <Navbar.Brand href="/">தமிழ் கதம்பம்</Navbar.Brand>
+                    <Navbar.Brand href="/">அங்காடி இந்தியன்</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="mr-auto">
